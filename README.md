@@ -1,4 +1,4 @@
-### Matrix/Discord chatroos rules:
+### Matrix/Discord chatrooms rules:
 
 #### Rules for #anonymity and #security:
 - Keep it legal
