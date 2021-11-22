@@ -1,6 +1,6 @@
 ### Matrix/Discord chatrooms rules:
 
-#### Rules for #anonymity and #security:
+#### General rules for all rooms (see rules for specific rooms below):
 - Keep it legal
 - English only
 - Be respectful to each other
