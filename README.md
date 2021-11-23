@@ -1,4 +1,4 @@
-### Matrix/Discord chatrooms rules:
+### P-S-A Matrix/Discord chatrooms rules:
 
 #### General rules for all rooms **unless specified otherwise below for specific rooms**:
 - Keep it legal
