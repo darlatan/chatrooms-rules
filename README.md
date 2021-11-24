@@ -17,6 +17,9 @@
 #### Rules for Modern Cryptography:
 See <https://nobodyspecial.neocities.org/rules.md.html> 
 
+#### Rules for OS Security:
+See <https://artemislena.eu/coc.html>
+
 #### Rules for Bnonymity:
 - Keep it legal (seriously)
 - English only (no Russian, no Chinese, English only)
@@ -25,4 +28,3 @@ See <https://nobodyspecial.neocities.org/rules.md.html>
 - No spammerino (scams, ads, flooding...)
 - No Porn, no Gore, no Hentai...
 - All of the above can result in an insta-ban depending on the severity
-- **A ban in this room will result in a ban in all other PSA affiliated rooms**
