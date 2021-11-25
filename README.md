@@ -1,4 +1,6 @@
-### P-S-A Matrix/Discord chatrooms rules:
+### Privacy Security Anonymoty Community Matrix/Discord chatrooms rules:
+
+**Note that rooms part of the Privacy Security Anonymity community are still sovereign and can apply their own local rules, with their own local moderation. Some of the rooms are following the general rules. Some are not. The general rules are not enforced on all PSA rooms.**
 
 #### General rules for all rooms **unless specified otherwise below for specific rooms**:
 - Keep it legal
