@@ -1,6 +1,8 @@
 ### Privacy Security Anonymoty Community Matrix/Discord chatrooms rules:
 
-**Note that rooms part of the Privacy Security Anonymity community are still sovereign and can apply their own local rules, with their own local moderation. Some of the rooms are following the general rules. Some are not. The general rules are not enforced on all PSA rooms.**
+You will find here the rules for the rooms part of the PSA Community. These rules are valid on Matrix and/or Discord if applicable.
+
+**Note that rooms part of the PSA community keep their sovereignty and can apply their own local rules, with their own local moderation. Some of the rooms are following the general rules. Some are not.**
 
 - [General Rules](#general)
 - [Modern Cryprography Room Rules](#moderncrypto)
@@ -8,6 +10,7 @@
 - [Bnonymity Room Rules](#bnonymity)
 
 #### General rules for all rooms **unless specified otherwise below for specific rooms**:<a name="general"></a>
+(Currently applied on **Anonymity** and **Security**)
 - Keep it legal
 - English only
 - Be respectful to each other
