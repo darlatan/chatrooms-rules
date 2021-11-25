@@ -10,7 +10,7 @@ You will find here the rules for the rooms part of the PSA Community. These rule
 - [Bnonymity Room Rules](#bnonymity)
 
 #### General rules for all rooms **unless specified otherwise below for specific rooms**:<a name="general"></a>
-(Currently applied on **Anonymity** and **Security**)
+(Currently applied on **#Anonymity** and **#Security**)
 - Keep it legal
 - English only
 - Be respectful to each other
