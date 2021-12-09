@@ -1,4 +1,4 @@
-### Privacy Security Anonymoty Community Matrix/Discord chatrooms rules:
+### Privacy Security Anonymity Community Matrix/Discord chatrooms rules:
 
 You will find here the rules for the rooms part of the PSA Community. These rules are valid on Matrix and/or Discord if applicable.
 
