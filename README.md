@@ -8,6 +8,7 @@ You will find here the rules for the rooms part of the PSA Community. These rule
 - [Modern Cryprography Room Rules](#moderncrypto)
 - [OS Security Room Rules](#ossecurity)
 - [Bnonymity Room Rules](#bnonymity)
+- [Exceptions](#exceptions)
 
 #### General rules for all rooms **unless specified otherwise below for specific rooms**:<a name="general"></a>
 (Currently applied on **#Anonymity** and **#Security**)
@@ -15,14 +16,14 @@ You will find here the rules for the rooms part of the PSA Community. These rule
 - English only
 - Be respectful to each other
 - Avoid FUD and/or disinformation
-- Avoid gatekeeping
+- Avoid gatekeeping and try to remain welcoming to new users
 - No hate speech (No racism, no homophobia, no transphobia...)
 - No spam
-- No trolling
+- No trolling (this doesn't mean sarcasm is forbidden)
 - No NSFW content (no Porn, no Gore, no Hentai...)
-- No upload of any non-media file
-- No voice messages
-- Avoid drifting too much off-topic or move to an off-topic room like #bnonymity
+- No upload of any non-media files (binaries, executables, compressed files...)
+- No voice messages (these will be auto-deleted by the bots)
+- **Avoid drifting too much off-topic or move to an off-topic room like #bnonymity**
 
 #### Rules for Modern Cryptography:<a name="moderncrypto"></a>
 See <https://nobodyspecial.neocities.org/rules.md.html> 
@@ -38,3 +39,9 @@ See <https://artemislena.eu/coc.html>
 - No spammerino (scams, ads, flooding...)
 - No Porn, no Gore, no Hentai...
 - All of the above can result in an insta-ban depending on the severity
+
+#### Exceptions:<a name="exceptions"></a>
+
+##### Exceptions for Anonymity, Security and Bnonymity rules
+- Talks about Sci-Hub and/or LibGen are allowed
+- Talks about torrenting anonymously are allowed unless the purpose is blatantly illegal
