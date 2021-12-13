@@ -5,7 +5,7 @@ You will find here the rules for the rooms part of the PSA Community. These rule
 **Note that rooms part of the PSA community keep their sovereignty and can apply their own local rules, with their own local moderation. Some of the rooms are following the general rules. Some are not.**
 
 - [General Rules](#general)
-- [Nothing To Hide Privacy](#nth)
+- [Nothing To Hide Privacy Room Rules](#nth)
 - [Modern Cryprography Room Rules](#moderncrypto)
 - [OS Security Room Rules](#ossecurity)
 - [Bnonymity Room Rules](#bnonymity)
