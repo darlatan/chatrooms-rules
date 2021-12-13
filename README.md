@@ -12,7 +12,7 @@ You will find here the rules for the rooms part of the PSA Community. These rule
 - [Exceptions](#exceptions)
 
 #### General default rules for all rooms **unless specific rules are mentioned below**:<a name="general"></a>
-Currently applied on **Anonymity** and **Security**, not applied on rules with their own ruleset below.
+These are currently only enforced on **Anonymity** and **Security**, not applied on rules with their own ruleset below.
 
 - Keep it legal
 - English only
