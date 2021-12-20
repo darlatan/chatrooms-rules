@@ -10,8 +10,9 @@ You will find here the rules for the rooms part of the PSA Community. These rule
 - [OS Security Room Rules](#ossecurity)
 - [Bnonymity Room Rules](#bnonymity)
 - [Exceptions](#exceptions)
+- [Ban Appeals](#appeals)
 
-#### General default rules for all rooms **unless specific rules are mentioned below**:<a name="general"></a>
+#### General default rules for PSA rooms **unless specific rules are mentioned below**:<a name="general"></a>
 These are currently only enforced on **Anonymity** and **Security**, and not applied on rooms  with their own ruleset below.
 
 - Keep it legal
@@ -58,3 +59,7 @@ See <https://artemislena.eu/coc.html>
 ##### Exceptions for Anonymity, Security and Bnonymity rules
 - Talks about Sci-Hub and/or LibGen are allowed
 - Talks about torrenting anonymously are allowed unless the purpose is blatantly illegal
+
+#### Ban Appeals:<a name="appeals"></a>
+- **If your ban is a local ban issued by room moderators of a specific room: please contact the mods of the room in question to state your case for appealing. PSA Admins cannot and will not assist you with local bans.**
+- If your ban is a PSA ban (usually formatted as: "date, reason, appeal status") and you are banned on several PSA rooms: please send an e-mail to <appeal@psa.aleeas.com> to state your case for appealing. This will notify the admins who can assess your appeal.
