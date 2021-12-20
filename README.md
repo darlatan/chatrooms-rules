@@ -56,7 +56,7 @@ See <https://artemislena.eu/coc.html>
 
 #### Exceptions:<a name="exceptions"></a>
 
-##### Exceptions for Anonymity, Security and Bnonymity rules
+##### Exceptions for #Anonymity, #Security, and #Bnonymity rooms:
 - Talks about Sci-Hub and/or LibGen are allowed
 - Talks about torrenting anonymously are allowed unless the purpose is blatantly illegal
 
