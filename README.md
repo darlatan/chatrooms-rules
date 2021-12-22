@@ -10,6 +10,7 @@ You will find here the rules for the rooms part of the PSA Community. These rule
 - [OS Security Room Rules](#ossecurity)
 - [Bnonymity Room Rules](#bnonymity)
 - [Exceptions](#exceptions)
+- [PSA Bans](#psabans)
 - [Ban Appeals](#appeals)
 
 #### General default rules for PSA rooms **unless specific rules are mentioned below**:<a name="general"></a>
@@ -59,6 +60,16 @@ See <https://artemislena.eu/coc.html>
 ##### Exceptions for #Anonymity, #Security, and #Bnonymity rooms:
 - Talks about Sci-Hub and/or LibGen are allowed
 - Talks about torrenting anonymously are allowed unless the purpose is blatantly illegal
+
+#### PSA Bans:<a name="psabans"></a>
+Currently, the following rooms are sharing a common PSA banlist for serious offenders:
+- #Anonymity
+- #Security
+- #Bnonymity
+- #OS-Security
+- #ModernCrypto
+
+This means that those PSA bans are effectively applied on all those rooms and can be issued by admins of these rooms. See the next section for information about appeals.
 
 #### Ban Appeals:<a name="appeals"></a>
 - **If your ban is a local ban issued by room moderators of a specific room: please contact the mods of the room in question to state your case for appealing. PSA Admins cannot and will not assist you with local bans.**
