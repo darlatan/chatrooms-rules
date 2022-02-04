@@ -53,6 +53,9 @@ See <https://artemislena.eu/coc.html>
 - No spammerino (scams, ads, flooding...)
 - No doxxing
 - No Porn, no Gore, no Hentai...
+- **No LOLICON (immediate permanent ban)**
+- No Card Games (immediate kick)
+- No MTG Cards (immediate permaban)
 - All of the above can result in an insta-ban depending on the severity
 
 #### Exceptions:<a name="exceptions"></a>
