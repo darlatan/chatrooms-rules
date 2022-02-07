@@ -14,7 +14,7 @@ You will find here the rules for the rooms part of the PSA Community. These rule
 - [Ban Appeals](#appeals)
 
 #### General default rules for PSA rooms **unless specific rules are mentioned below**:<a name="general"></a>
-These are currently only enforced on **Anonymity** and **Security**, and not applied on rooms  with their own ruleset below.
+These are currently only enforced on **#Anonymity** and **#Security**, and not applied on rooms with their own ruleset (linked or mentioned below).
 
 - Keep it legal
 - English only
