@@ -23,9 +23,11 @@ These are currently only enforced on **Anonymity** and **Security**, and not app
 - Avoid gatekeeping and try to remain welcoming to new users
 - No hate speech (No racism, no homophobia, no transphobia...)
 - No spam
+- No flooding
+- No scams
 - No doxxing
 - No trolling (this doesn't mean sarcasm is forbidden)
-- No NSFW content (no Porn, no Gore, no Hentai...)
+- No NSFW content (no Porn, no Gore, no Hentai or lolicon...)
 - No upload of any non-media files (binaries, executables, compressed files...)
 - No voice messages (these will be auto-deleted by the bots)
 - **Avoid drifting too much off-topic or move to an off-topic room like #bnonymity**
@@ -46,23 +48,29 @@ See <https://nobodyspecial.neocities.org/rules.md.html>
 See <https://artemislena.eu/coc.html>
 
 #### Rules for Bnonymity:<a name="bnonymity"></a>
-- Keep it legal (seriously)
-- English only (no Russian, no Chinese, English only)
-- Be "somewhat" respectful to each other
-- No hate speech (No racism, no homophobia, no transphobia...)
-- No spammerino (scams, ads, flooding...)
-- No doxxing
-- No Porn, no Gore, no Hentai...
-- **No LOLICON (immediate permanent ban)**
-- No Card Games (immediate kick)
-- No MTG Cards (immediate permaban)
-- All of the above can result in an insta-ban depending on the severity
+- Keep it legal (seriously). Nothing malicious. No phishing.
+- English only (no Russian, no Chinese, **English only**)
+- Be "somewhat" respectful to each other but sarcasm and cynicism are absolutely fine
+- No hate speech (No racism, no homophobia, no transphobia, no pepephobia(/s)
+- Making some fun of furries is okay but not too much okay and nothing hateful
+- No spammerino (no scams, no ads, no flooding...)
+- Memes are okay unless it becomes spammerino (don't f post like 10 memes in a row) nor memes that even remotely contain hate speech
+- **No doxxing** unless you have the explicit, authentic, publicly verifiable consent of the target (like a challenge or something). So it's okay if it's part of a mutual agreement.
+- OSINT is okay as long as it's not doxxing
+- No Porn, no Gore, no Hentai... (immediate permaban)
+- **No LOLICON (immediate permaban)**
+- No card games pics (immediate kick and permaban if offense is repeated)
+- Don't upload anything weird like a script, an executable, a zip file, an audio/movie file or whatever ... pics or gifs only (small ones, don't you dare upload a whole 1080p movie gif or you'll be banned into obvlivion)
+- All of the above can still result in an insta-ban depending on the severity and the mood of the mods
+- Mods are authorized to insta-ban alts of people trying to evade the above bans
+- If you decide to /ignore a mod, tey're authorized to communicate with you using kick messages if they feel like it
+- **Mod abuse can be reported to @anonypla:anonymousplanet.org with proofs**
 
 #### Exceptions:<a name="exceptions"></a>
 
 ##### Exceptions for #Anonymity, #Security, and #Bnonymity rooms:
 - Talks about Sci-Hub and/or LibGen are allowed
-- Talks about torrenting anonymously are allowed unless the purpose is blatantly illegal
+- Talks about torrenting anonymously are allowed unless the purpose is blatantly illegal ("piracy")
 
 #### PSA Bans:<a name="psabans"></a>
 Currently, the following rooms are sharing a common PSA banlist for serious offenders:
@@ -74,6 +82,8 @@ Currently, the following rooms are sharing a common PSA banlist for serious offe
 
 This means that those PSA bans are effectively applied on all those rooms and can be issued by admins of these rooms. See the next section for information about appeals.
 
+Only admins of the the rooms above can issue those bans. Mods cannot issue those bans but can request an admin to issue one if needed.
+
 #### Ban Appeals:<a name="appeals"></a>
-- **If your ban is a local ban issued by room moderators of a specific room: please contact the mods of the room in question to state your case for appealing. PSA Admins cannot and will not assist you with local bans.**
-- If your ban is a PSA ban (usually formatted as: "date, reason, appeal status") and you are banned on several PSA rooms: please send an e-mail to <appeal@psa.aleeas.com> to state your case for appealing. This will notify the admins who can assess your appeal.
+- **If your ban is a local ban issued by a room moderator of a specific room: please contact the mods/admins of the room in question to state your case for appealing. PSA Admins cannot and will not assist you with local bans unless they also happen to be admins of the room in question.**
+- If your ban is a PSA ban (usually formatted as: "date, reason, appeal status") and you are banned on several PSA rooms: you can appeal by sending an e-mail to <appeal@psa.aleeas.com> to state your case. This will notify the admins who can assess your appeal. Don't do this if it's a local ban. PSA bans are recognizable and are always enforced by bots.
