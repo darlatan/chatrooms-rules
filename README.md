@@ -99,10 +99,10 @@ Only admins of the the rooms above can issue those bans. Mods cannot issue those
 - No tolerance for porn, hentai and loiicon... There are specialized spaces/rooms for these which are not within the PSA space.
 - No tolerance for scammers, spammers, flooders.
 - Collaboration between mods and admins of the PSA community is required even if they hate each other.
-- Privileging redirection of people to the PSA community roomss in favor of outside rooms for matters unrelated to your room if possible. Let's grow the community.
+- Privileging redirection of people to the PSA community roomss in favor of outside rooms for matters unrelated to your room is appreciated. Let's grow the community.
 - A PSA community discord server is available and rooms wishing to extend their presence to discord can receive a free independently hosted no-logging discord bridging bot and a room on the PSA community discord server to bridge both rooms.
 - A PSA community federated banlist compatible with Mjolnir is available for rooms to subscribe to if they wish so. Please contact a PSA Admin for assistance on this.
 - A PSA community room can be protected by the PSA Mjolnir bot directly (if it's not too large) and applying the federated banlist and ACLs if requested.
 - Rooms not adhering and enforcing the above rules can be excluded from the PSA community.
-- Persons who are promoted to the role of admin of the PSA community agree and swear on their reputation, and honor that if a 2/3 majority the other admins of the PSA community vote for them to leave their role, they will cooperate and demote themselves peacefully and willingly without causing trouble. Any "vendetta" or "action" from members between each others will not be tolerated. If a room leaves the PSA space, it shall be left alone in peace and offenders will be sanctioned.
-- The current admins of the PSA community space are: Anonypla, Babba27, Fantasycookie17, Minji, and Michelle
+- Persons who are promoted to the role of admin of the PSA community agree and swear on their reputation, and honor that if a 2/3 majority the other admins of the PSA community vote for them to leave their role, they will cooperate, demote themselves peacefully and willingly without causing trouble. Any "vendetta" or "action" from members between each others will not be tolerated. If a room leaves the PSA community, it shall be left alone in peace and offenders will be sanctioned. Any offenders from a "leaving room" will also be banned if they engage in harassment/trolling...
+- The current admins of the PSA community space are: Anonypla, Babba27, Fantasycookie17, Minji, and Michelle and are the only admins that can possibly make exceptions to the rules above. 
