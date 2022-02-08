@@ -92,17 +92,17 @@ Only admins of the the rooms above can issue those bans. Mods cannot issue those
 #### Requirements for rooms to join the PSA community:<a name="conditions"></a>
 
 - Main Rooms (not off-topic rooms) have to be related in some way to Privacy, Security, or Anonymity
-- Rooms remains sovereign of their mods, admins, rules, ACLs, and bans but can subscribe to a federated PSA community banlist if desired.
-- Establishing rules within their rooms is required for rooms wishing to join (see https://psa.anonymousplanet.org for ours)
-- No tolerance for hate speech
-- No tolerance for pedophilia and reporting of those offenders in the PSA Admin room
-- No tolerance for porn, hentai... There are specialized spaces/rooms for these.
-- No tolerance for scammers and spammers
-- Good Collaboration between mods and admins of the PSA community is required
-- Privileging redirection of people to the PSA community rooms in favor of outside rooms for matters unrelated to your room if possible
-- A PSA community discord server is available and rooms wishing to extend their presence to discord can receive a free independently hosted no-logging discord bridging bot and a room on the PSA community discord server
-- A PSA community federated banlist compatible with Mjolnir is available for rooms to subscribe to if they wish so
-- A PSA community room can be protected by the PSA Mjolnir bot and applying the federated banlist and ACLs
-- Rooms not adhering and enforcing the above rules will be excluded from the PSA community
-- Persons who are promoted to the role of admin of the PSA community agree and swear on their reputation, and honor that if all the other admins of the PSA community vote for them to leave their role for a serious offense/issue, they will cooperate and demote themselves peacefully and willingly without causing trouble.
-- The current admins of the PSA community are: Anonypla, Babba27, Fantasycookie17, Minji, and Michelle
+- Rooms remain sovereign which include their mods, admins, rules, ACLs, and bans but can subscribe to the federated PSA community banlist if they wish to do so.
+- Establishing rules within their rooms is a requirement for rooms wishing to join the PSA community.
+- No tolerance for hate speech.
+- No tolerance for pedophilia and reporting of those offenders in the PSA Admin room is required.
+- No tolerance for porn, hentai and loiicon... There are specialized spaces/rooms for these which are not within the PSA space.
+- No tolerance for scammers, spammers, flooders.
+- Collaboration between mods and admins of the PSA community is required even if they hate each other.
+- Privileging redirection of people to the PSA community roomss in favor of outside rooms for matters unrelated to your room if possible. Let's grow the community.
+- A PSA community discord server is available and rooms wishing to extend their presence to discord can receive a free independently hosted no-logging discord bridging bot and a room on the PSA community discord server to bridge both rooms.
+- A PSA community federated banlist compatible with Mjolnir is available for rooms to subscribe to if they wish so. Please contact a PSA Admin for assistance on this.
+- A PSA community room can be protected by the PSA Mjolnir bot directly (if it's not too large) and applying the federated banlist and ACLs if requested.
+- Rooms not adhering and enforcing the above rules can be excluded from the PSA community.
+- Persons who are promoted to the role of admin of the PSA community agree and swear on their reputation, and honor that if a 2/3 majority the other admins of the PSA community vote for them to leave their role, they will cooperate and demote themselves peacefully and willingly without causing trouble. Any "vendetta" or "action" from members between each others will not be tolerated. If a room leaves the PSA space, it shall be left alone in peace and offenders will be sanctioned.
+- The current admins of the PSA community space are: Anonypla, Babba27, Fantasycookie17, Minji, and Michelle
