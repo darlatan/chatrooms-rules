@@ -1,6 +1,6 @@
 ### Privacy Security Anonymity Community Matrix/Discord chatrooms rules:
 
-You will find here the rules for the rooms part of the PSA Community. These rules are valid on Matrix and/or Discord if applicable.
+You will find here the rules for the rooms part of the PSA Community.
 
 **Note that rooms part of the PSA community keep their sovereignty and can apply their own local rules, with their own local moderation. Some of the rooms are following the general rules. Some are not.**
 
@@ -100,7 +100,6 @@ Only admins of the the rooms above can issue those bans. Mods cannot issue those
 - No tolerance for scammers, spammers, flooders.
 - Collaboration between mods and admins of the PSA community is required even if they hate each other.
 - Privileging redirection of people to the PSA community roomss in favor of outside rooms for matters unrelated to your room is appreciated. Let's grow the community.
-- A PSA community discord server is available and rooms wishing to extend their presence to discord can receive a free independently hosted no-logging discord bridging bot and a room on the PSA community discord server to bridge both rooms.
 - A PSA community federated banlist compatible with Mjolnir is available for rooms to subscribe to if they wish so. Please contact a PSA Admin for assistance on this.
 - A PSA community room can be protected by the PSA Mjolnir bot directly (if it's not too large) and applying the federated banlist and ACLs if requested.
 - Rooms not adhering and enforcing the above rules can be excluded from the PSA community.
