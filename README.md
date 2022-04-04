@@ -36,7 +36,7 @@ These are currently only enforced on **#Anonymity** and **#Security**, and not a
 - No voice messages (these will be auto-deleted by the bots)
 - **Avoid drifting too much off-topic or move to an off-topic room like #bnonymity**
 
-Rules regarding hate crimes (racism, homophobia, transphobia, etc.) are strictly enforced. This includes intentionally misgendering users.
+Rules regarding hate crimes (racism, homophobia, transphobia, etc.) are strictly enforced. This includes intentionally misgendering users, as well as other microaggressions.
 
 See:
 
