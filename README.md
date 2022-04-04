@@ -36,7 +36,37 @@ These are currently only enforced on **#Anonymity** and **#Security**, and not a
 - No voice messages (these will be auto-deleted by the bots)
 - **Avoid drifting too much off-topic or move to an off-topic room like #bnonymity**
 
+Rules regarding hate crimes (racism, homophobia, transphobia, etc.) are strictly enforced. This includes intentionally misgendering users.
+
+See:
+
+
+
+- https://www.healthline.com/health/transgender/misgendering
+
+- https://aragonoutlook.org/2018/10/the-power-of-pronouns-how-misgendering-can-affect-student-health/
+
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025345/
+
+- https://pubmed.ncbi.nlm.nih.gov/26835611/
+
+- https://chronicle.durhamcollege.ca/2017/03/misgendering-not-silent-killer/
+
+- https://www.uclalawreview.org/misgendering-as-misconduct/
+
+- https://in-training.org/misgendering-in-health-care-and-how-to-improve-20983
+
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5061456/
+
+- https://blogs.scientificamerican.com/voices/actually-we-should-not-all-use-they-them-pronouns/
+
+
+
+
+
 Some exceptions can apply, see the [exceptions](#exceptions) section at the bottom of this page.
+
+---
 
 #### Rules for Nothing To Hide Privacy:<a name="nth"></a>
 - Zero tolerance for discussion of how to commit illicit acts
@@ -107,4 +137,4 @@ Only admins of the the rooms above can issue those bans. Mods cannot issue those
 - A PSA community room can be protected by the PSA Mjolnir bot directly (if it's not too large) and applying the federated banlist and ACLs if requested.
 - Rooms not adhering and enforcing the above rules can be excluded from the PSA community.
 - Persons who are promoted to the role of admin of the PSA community agree and swear on their reputation, and honor that if a 2/3 majority the other admins of the PSA community vote for them to leave their role, they will cooperate, demote themselves peacefully and willingly without causing trouble. Any "vendetta" or "action" from members between each others will not be tolerated. If a room leaves the PSA community, it shall be left alone in peace and offenders will be sanctioned. Any offenders from a "leaving room" will also be banned if they engage in harassment/trolling...
-- The current admins of the PSA community space are: Anonypla, Babba27, Fantasycookie17, Minji, and Michelle and are the only admins that can possibly make exceptions to the rules above. 
+- The current admins of the PSA community space are: Babba27, Fantasycookie17, Minji, and Michelle and are the only admins that can possibly make exceptions to the rules above.
