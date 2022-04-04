@@ -22,7 +22,10 @@ These are currently only enforced on **#Anonymity** and **#Security**, and not a
 - Be respectful to each other
 - Avoid FUD and/or disinformation
 - Avoid gatekeeping and try to remain welcoming to new users
-- No hate speech (No racism, no homophobia, no transphobia...)
+- No hate speech
+  - This includes racism, sexism, homophobia, transphobia, and other anti-LGBTQ+ behavior
+  - Any forms of prejuduce can qualify as hate speech, at the discretion of the acting moderator(s)
+  - Hate speech will result in an insta-ban. No exceptions.
 - No spam
 - No flooding
 - No scams
