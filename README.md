@@ -72,7 +72,7 @@ See <https://artemislena.eu/coc.html>
 - All of the above can still result in an insta-ban depending on the severity and the mood of the mods
 - Mods are authorized to insta-ban alts of people trying to evade the above bans
 - If you decide to /ignore a mod, tey're authorized to communicate with you using kick messages if they feel like it
-- **Mod abuse can be reported to @anonypla:anonymousplanet.org with proofs**
+- **Mod abuse can be reported to admins with proofs**
 
 #### Exceptions:<a name="exceptions"></a>
 
