@@ -94,7 +94,7 @@ Only admins of the the rooms above can issue those bans. Mods cannot issue those
 
 #### Ban Appeals:<a name="appeals"></a>
 - **If your ban is a local ban issued by a room moderator of a specific room: please contact the mods/admins of the room in question to state your case for appealing. PSA Admins cannot and will not assist you with local bans unless they also happen to be admins of the room in question.**
-- If your ban is a PSA ban (usually formatted as: "date, reason, appeal status") and you are banned on several PSA rooms: you can appeal by sending an e-mail to <appeal@psa.aleeas.com> to state your case. This will notify the admins who can assess your appeal. Don't do this if it's a local ban. PSA bans are recognizable and are always enforced by bots.
+- ~If your ban is a PSA ban (usually formatted as: "date, reason, appeal status") and you are banned on several PSA rooms: you can appeal by sending an e-mail to <appeal@psa.aleeas.com> to state your case. This will notify the admins who can assess your appeal. Don't do this if it's a local ban. PSA bans are recognizable and are always enforced by bots~ (e-mail appeal temporarily disabled).
 
 #### Requirements for rooms to join the PSA community:<a name="conditions"></a>
 
