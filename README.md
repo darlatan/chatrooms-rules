@@ -38,7 +38,7 @@ These are currently only enforced on **#Anonymity** and **#Security**, and not a
 
 Rules regarding hate speech (racism, homophobia, transphobia, intolerance, etc.) are strictly enforced. This includes intentionally misgendering users, as well as other microaggressions. See some useful resources [here](misgendering.html).
 
-Some exceptions can apply, see the [exceptions](#exceptions) section at the bottom of this page.
+**Some exceptions can apply, see the [exceptions](#exceptions) section at the bottom of this page.**
 
 ---
 
