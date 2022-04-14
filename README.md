@@ -36,33 +36,7 @@ These are currently only enforced on **#Anonymity** and **#Security**, and not a
 - No voice messages (these will be auto-deleted by the bots)
 - **Avoid drifting too much off-topic or move to an off-topic room like #bnonymity**
 
-Rules regarding hate crimes (racism, homophobia, transphobia, intolerance, etc.) are strictly enforced. This includes intentionally misgendering users, as well as other microaggressions.
-
-See:
-
-
-
-- https://www.healthline.com/health/transgender/misgendering
-
-- https://aragonoutlook.org/2018/10/the-power-of-pronouns-how-misgendering-can-affect-student-health/
-
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025345/
-
-- https://pubmed.ncbi.nlm.nih.gov/26835611/
-
-- https://chronicle.durhamcollege.ca/2017/03/misgendering-not-silent-killer/
-
-- https://www.uclalawreview.org/misgendering-as-misconduct/
-
-- https://in-training.org/misgendering-in-health-care-and-how-to-improve-20983
-
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5061456/
-
-- https://blogs.scientificamerican.com/voices/actually-we-should-not-all-use-they-them-pronouns/
-
-
-
-
+Rules regarding hate crimes (racism, homophobia, transphobia, intolerance, etc.) are strictly enforced. This includes intentionally misgendering users, as well as other microaggressions. See some useful resources [here](misgendering.html).
 
 Some exceptions can apply, see the [exceptions](#exceptions) section at the bottom of this page.
 
