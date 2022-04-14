@@ -103,7 +103,7 @@ Only admins of the the rooms above can issue those bans. Mods cannot issue those
 - Establishing rules within their rooms is a requirement for rooms wishing to join the PSA community.
 - No tolerance for hate speech.
 - No tolerance for pedophilia and reporting of those offenders in the PSA Admin room is required.
-- No tolerance for porn, hentai and loiicon... There are specialized spaces/rooms for these which are not within the PSA space.
+- No tolerance for porn, hentai and lolicon... There are specialized spaces/rooms for these which are not within the PSA space.
 - No tolerance for scammers, spammers, flooders.
 - Collaboration between mods and admins of the PSA community is required even if they hate each other.
 - Privileging redirection of people to the PSA community roomss in favor of outside rooms for matters unrelated to your room is appreciated. Let's grow the community.
